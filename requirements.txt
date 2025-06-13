@@ -1,0 +1,8 @@
+streamlit
+flask
+flask-cors
+requests
+gtts
+Pillow
+google-generativeai
+pyngrok
