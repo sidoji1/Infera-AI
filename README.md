@@ -38,6 +38,12 @@ Runs entirely on Google Colab using `Flask`, `Streamlit`, and `pyngrok`. No need
 
 ---
 
+# Preview of how the AI looks
+![WhatsApp Image 2025-06-13 at 14 58 49_0987700e](https://github.com/user-attachments/assets/8cb03662-0969-495d-8b7b-8a976c3ce7b4)
+
+![WhatsApp Image 2025-06-13 at 14 58 49_2df4d02b](https://github.com/user-attachments/assets/43010f38-8e1e-4902-ae3b-4456325c985c)
+
+
 ## 🧪 Try It Locally (Colab)
 
 1. Clone this repo:
